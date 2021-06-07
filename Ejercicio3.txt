@@ -1,0 +1,23 @@
+Inicio
+DobleTriple
+ var numero
+	
+ var doble
+	
+ var triple
+
+ var valorFinal	
+ escribir "ingresar un numero "
+	
+ leer (numero)
+	
+ doble=numero*2
+	
+ triple=numero*3
+	
+ mostrar(El doble del numero es "doble")
+	
+ mostrar(El triple del numero es "triple")
+
+Fin
+DobleTriple
