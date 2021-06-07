@@ -1,0 +1,14 @@
+InicioNumeroAleatorio 
+	
+ var numero
+
+ var aumento
+ Escribir "Ingesar un numero"
+	
+ leer(numero)
+	
+ numero=aleatorio*200
+	
+ aumento=numero+(numero*0.3)
+
+FinNumeroAlearotio
