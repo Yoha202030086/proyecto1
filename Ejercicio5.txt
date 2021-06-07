@@ -1,0 +1,14 @@
+Inicio
+SiguenteNumero
+ var numero
+	
+ escribir "Ingresar un numero"
+	
+ leer(numero)
+	
+ numero=1
+	
+ mostrar (el numero siguiente es "numero")
+
+Fin
+SiguenteNumero
