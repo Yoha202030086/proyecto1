@@ -1,0 +1,20 @@
+InicioPalabras
+ var palabra1
+	
+ var palabra2
+	
+ var intercambio1
+ var intercambio2	
+ Escribir "Solicitar primera palabra"
+	
+ leer(palabra)
+	
+ Escribir "Solicitar segunda palabra"
+	
+ leer(palabra)
+	
+ intercambio1=palabra1
+ intercambio2=palabra2	
+ mostrar(Intercambio de palabras son "intercambio1" y "intercambio2")
+
+FinPalabras
