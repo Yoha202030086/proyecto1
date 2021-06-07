@@ -1,0 +1,18 @@
+InicioCuadradoCubo
+ var numero
+ var cuadrado
+ var cubo
+	
+ escribir "Escribir un numero"
+	
+ leer(numero)
+	
+ cuadrado = numero*numero
+	
+ cubo = numero*numero*numero
+	
+ mostrar(El cuadrado del numero es "cuadrado")
+	
+ mostrar(El cubo del numero es "cubo")
+
+Fin CuadradoCubo 
