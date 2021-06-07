@@ -1,0 +1,14 @@
+InicioDatos 
+  var país
+  var capital
+  escribir"ingrese un país"
+  leer(país)
+  escribir"ingrese capital"
+  leer(capital)
+  País=país+capital
+  Datos=capitalDelPaís
+  mostrar
+FinDatos
+
+
+   

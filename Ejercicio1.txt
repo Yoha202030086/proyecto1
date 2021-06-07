@@ -7,4 +7,4 @@ InicioSuma
   leer(num2)
   suma=num1+num2
   mostrar
-FinSuma
+FinSuma 
