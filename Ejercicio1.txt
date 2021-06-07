@@ -1,0 +1,10 @@
+InicioSuma 
+  var num1
+  var num2
+  escribir"ingrese un numero"
+  leer(num1)
+  escribir"ingrese otro numero"
+  leer(num2)
+  suma=num1+num2
+  mostrar
+FinSuma
