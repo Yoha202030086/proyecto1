@@ -1,0 +1,2 @@
+#Mi Proyecto 
+El proyecto se trata sobre la resolución de problemas computacionales empleando algoritmos para tener un mejor entendimiento y analisis. dejara un buen aprendisaje ya que se realizan diferentes acciones relacionados con la programacion.  
