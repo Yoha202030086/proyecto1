@@ -1,0 +1,27 @@
+InicioTresNumeros
+
+ var numero1
+	
+ var numero2
+	
+ var numero3
+	
+ var prom
+ 
+ Escribir "Ingresar numero1"
+	
+ leer(numero1)
+ 
+ Escribir "Ingresar numero2"
+	
+ leer(numero1)
+ 
+ Escribir "Ingresar numero3"
+	
+ leer(numero1)
+	
+ prom=(numero1+numero2+numero3)/3
+	
+ mostrar(El prom es "prom")
+
+FinTresNumeros	
