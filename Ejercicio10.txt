@@ -1,0 +1,28 @@
+Inicio
+Rectangulo    
+ var base
+    
+ var altura
+  
+ var lado  
+ var area
+    
+ var perimetro
+   
+ Escribir "Ingresar base del rectangulo"
+    
+ leer(base)
+    
+ Escribir "Ingresar la altura del rectángulo"
+    
+ leer(altura)
+    
+ area=base*altura
+    
+ perimetro=(2base)+(2altura)
+   
+ mostrar(area del rectángulo es de "area")
+    
+ mostrar(perimetro del rectángulo es de "perimetro")
+ 
+FinRectangulo
