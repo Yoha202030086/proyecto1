@@ -1,0 +1,13 @@
+InicioAleatoreo10
+ var numero
+ var disminuido
+	
+ numero=aleatorio(10,50)
+	
+ disminuir=numero-(numero*0.15)
+	
+ mostrar(Numero es "numero")
+	
+ mostrar(disminuir en 15% es "disminuir")
+
+FinAleatorio10
